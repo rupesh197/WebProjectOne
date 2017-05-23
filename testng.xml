@@ -3,7 +3,7 @@
 <suite name="suite-1">
 	<test name="test-1">
 		<classes>
-			<class name="com.work.workci.TestOne" />
+			<class name="com.work.workci.TestWebOne" />
 		</classes>
 	</test>
 </suite>

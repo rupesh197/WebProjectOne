@@ -15,6 +15,7 @@ public class TestWebOne {
 	@Test
 	public void TestWebMethodOne() throws InterruptedException
 	{
+		//gecko driver for firefox is used
 		System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"/drivers/geckodriver.exe");
 		driver = new FirefoxDriver();
 		driver.get("https://www.google.co.in/?gfe_rd=cr&ei=uUIkWfKXDdmDrAHmt7HgCw");

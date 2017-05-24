@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="suite-2">
+	<test name="test-2">
+		<classes>
+			<class name="com.work.workci.TestParameters" />
+		</classes>
+	</test>
+</suite>

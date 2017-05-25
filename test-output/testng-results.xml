@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20792" started-at="2017-05-23T14:13:56Z" finished-at="2017-05-23T14:14:16Z">
+  <suite name="Default suite" duration-ms="31" started-at="2017-05-24T13:05:06Z" finished-at="2017-05-24T13:05:06Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20792" started-at="2017-05-23T14:13:56Z" finished-at="2017-05-23T14:14:16Z">
-      <class name="com.work.workci.TestWebOne">
-        <test-method status="PASS" signature="TestWebMethodOne()[pri:0, instance:com.work.workci.TestWebOne@5b275dab]" name="TestWebMethodOne" duration-ms="20772" started-at="2017-05-23T19:43:56Z" finished-at="2017-05-23T19:44:16Z">
+    <test name="Default test" duration-ms="31" started-at="2017-05-24T13:05:06Z" finished-at="2017-05-24T13:05:06Z">
+      <class name="com.work.workci.XMLDynamic$CreateXmlFileViaCode">
+        <test-method status="PASS" signature="generatedXMLfile()[pri:0, instance:com.work.workci.XMLDynamic$CreateXmlFileViaCode@61832929]" name="generatedXMLfile" duration-ms="16" started-at="2017-05-24T18:35:06Z" finished-at="2017-05-24T18:35:06Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestWebMethodOne -->
-      </class> <!-- com.work.workci.TestWebOne -->
+        </test-method> <!-- generatedXMLfile -->
+      </class> <!-- com.work.workci.XMLDynamic$CreateXmlFileViaCode -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
